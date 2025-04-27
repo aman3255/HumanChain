@@ -17,7 +17,7 @@ A simple Express + TypeScript + MongoDB API for managing incident reports.
 
 ### 2.1 Clone the Repository
 
-```bash
+
 git clone https://github.com/your-username/humanchain-ai-safety.git
 cd humanchain-ai-safety
 
